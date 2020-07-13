@@ -20,5 +20,3 @@ print(d_artagnan)
 print(athos)
 print(porthos)
 print(aramis)
-
-# TODO: ex11, page 61
