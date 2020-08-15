@@ -18,4 +18,3 @@ bulls_on_parade = Song(["Далеко-далеко на лугу пасется 
 happy_bday.sing_me_a_song()
 
 bulls_on_parade.sing_me_a_song()
-
