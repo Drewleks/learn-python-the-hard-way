@@ -123,3 +123,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.idea/
+.idea/vcs.xml
+.idea/modules.xml
+.idea/misc.xml
+.idea/learn-python-the-hard-way.iml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/encodings.xml
