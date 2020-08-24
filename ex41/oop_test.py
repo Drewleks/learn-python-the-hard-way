@@ -60,7 +60,6 @@ def convert(snippet, phrase):
 
 
 # выполнение, пока не нажато сочетание клавиш CTRL+Z
-# выполнение, пока не нажато сочетание клавиш CTRL+Z
 try:
     while True:
         snippets = list(PHRASES.keys())
